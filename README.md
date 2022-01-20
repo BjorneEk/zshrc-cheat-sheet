@@ -1,3 +1,4 @@
+# zshrc-cheat-sheet
 ### DIRECTORY
 ```bash
 %d  # full working directory
